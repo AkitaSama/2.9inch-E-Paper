@@ -8,18 +8,18 @@
 #define EPD_WIDTH       128
 #define EPD_HEIGHT      296
 
-#define EPD_SDI_PIN 	16
-#define EPD_SCK_PIN 	17
-#define EPD_CS_PIN 		18
-#define EPD_DC_PIN 		19
-#define EPD_RST_PIN		15
-#define EPD_BUSY_PIN	20
+#define EPD_SDI_PIN     16
+#define EPD_SCK_PIN     17
+#define EPD_CS_PIN      18
+#define EPD_DC_PIN      19
+#define EPD_RST_PIN     15
+#define EPD_BUSY_PIN    20
 
 #define LOW             0
 #define HIGH            1
 
-#define COLORED      	0
-#define UNCOLORED    	1
+#define COLORED         0
+#define UNCOLORED       1
 
 #define DRIVER_OUTPUT_CONTROL                       0x01
 #define BOOSTER_SOFT_START_CONTROL                  0x0C
